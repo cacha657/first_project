@@ -1,0 +1,13 @@
+#include <stdio.h>
+int labl1();
+int labl1dop();
+int labl2();
+int labl2dop();
+int labl3();
+int labl3dop();
+int labl4();
+int labl4dop();
+int labl5();
+int labl5dop();
+int labl6();
+int labl7();
